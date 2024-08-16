@@ -1,0 +1,8 @@
+user:
+  email: qa@gmail.com
+  mobile:
+    - 1122
+    - 2233
+  address:
+    city: Mumbai
+    state: MH

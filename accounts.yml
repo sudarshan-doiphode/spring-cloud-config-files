@@ -1,0 +1,8 @@
+user:
+  email: darsh@gmail.com
+  mobile:
+    - 1122
+    - 2233
+  address:
+    city: Pune
+    state: MH
