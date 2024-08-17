@@ -1,6 +1,6 @@
 user:
   name: qa
-  loan: test
+  loan: qaprofile
   amount: 200
   address: 
     city: Thane
