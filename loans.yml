@@ -1,0 +1,10 @@
+user:
+  name: sudarshan
+  loan: liquiloan
+  amount: 200
+  address: 
+    city: Ratnagiri
+    state: MH
+  mobile:
+    - 33333111
+    - 33333999

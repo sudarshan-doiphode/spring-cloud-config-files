@@ -1,0 +1,8 @@
+user:
+  name: qa
+  loan: test
+  amount: 200
+  address: 
+    city: Thane
+    state: MH
+  mobile:
