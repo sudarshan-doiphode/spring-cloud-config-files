@@ -1,0 +1,9 @@
+user:
+  name: mahesh
+  loan: bajajloan
+  amount: 300
+  address: 
+    city: Mumbai
+    state: MH
+  mobile:
+    - 11111111
