@@ -1,9 +1,9 @@
 user:
-  name: mahesh
-  loan: bajajloan
-  amount: 300
+  name: "production@gmail.com"
+  loan: "demoloan"
+  amount: 30000
   address: 
-    city: Mumbai
+    city: Pune
     state: MH
   mobile:
-    - 11111111
+    - 10101010
