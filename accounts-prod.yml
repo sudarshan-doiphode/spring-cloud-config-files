@@ -1,8 +1,6 @@
 user:
   email: production@email.com
   mobile:
-    - 987654321
-    - 123456789
     - 111111111
     - 222222222
   address:
