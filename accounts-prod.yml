@@ -1,5 +1,5 @@
 user:
-  email: thisisproduction@email.com
+  email: production@email.com
   mobile:
     - 987654321
     - 123456789
