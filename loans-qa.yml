@@ -1,7 +1,7 @@
 user:
   name: qa
   loan: "{cipher}cbc87054ae6da26d0e36e5ec733aa80410b16d25dd72279b18c80ad255fff681"
-  amount: 200
+  amount: 3000
   address: 
     city: Thane
     state: MH
