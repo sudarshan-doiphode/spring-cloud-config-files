@@ -1,6 +1,6 @@
 user:
-  name: loansproduction@gmail.com
-  loan: bajajloan
+  name: "production@gmail.com"
+  loan: "demoloan"
   amount: 30000
   address: 
     city: Pune
