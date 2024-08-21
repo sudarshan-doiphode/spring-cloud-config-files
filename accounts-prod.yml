@@ -1,8 +1,8 @@
 user:
-  email: prod@gmail.com
+  email: thisisproduction@email.com
   mobile:
-    - 2222
-    - 8888
+    - 987654321
+    - 123456789
   address:
-    city: Mumbai
-    state: MH
+    city: Somewhere 
+    state: Earth
