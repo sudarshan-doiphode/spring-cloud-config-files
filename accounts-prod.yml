@@ -1,6 +1,6 @@
 application:
   version: "Version:3.0"
-  password: ${PASS}
+  password: PRODPASSWORD
 
 accounts:
   message: "Welcome to accounts service 😄"
