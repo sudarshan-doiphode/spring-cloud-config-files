@@ -1,8 +1,12 @@
-user:
-  email: qa@gmail.com
-  mobile:
-    - 1122
-    - 2233
-  address:
-    city: Mumbai
-    state: MH
+application:
+  version: "Version:2.0"
+  password: ${PASS}
+
+accounts:
+  message: "Welcome to accounts service 😄"
+  contactDetails:
+    name: "Dan Vega"
+    email: "danvega@example.com"
+  onCallSupport:
+    - 2211221145
+    - 9383332225
