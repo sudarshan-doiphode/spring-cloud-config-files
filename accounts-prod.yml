@@ -1,8 +1,12 @@
-user:
-  email: production@email.com
-  mobile:
-    - 111111111
-    - 222222222
-  address:
-    city: Mumbai 
-    state: Maharashtra
+application:
+  version: "Version:3.0"
+  password: ${PASS}
+
+accounts:
+  message: "Welcome to accounts service 😄"
+  contactDetails:
+    name: "John Smith"
+    email: "johnsmith@example.com"
+  onCallSupport:
+    - 1111111133
+    - 2311331113
