@@ -3,7 +3,7 @@ application:
   password: PRODPASSWORD
 
 accounts:
-  message: "Welcome to accounts service 😄"
+  message: "Welcome to Production 🤯"
   contactDetails:
     name: "John Smith"
     email: "johnsmith@example.com"
