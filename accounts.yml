@@ -1,8 +1,12 @@
-user:
-  email: darsh@gmail.com
-  mobile:
-    - 1122
-    - 2233
-  address:
-    city: Pune
-    state: MH
+application:
+  version: "Version:1.0"
+  password: 1234
+
+accounts:
+  message: "Welcome to accounts service 😄"
+  contactDetails:
+    name: "Sudarshan"
+    email: "sudarshan@example.com"
+  onCallSupport:
+    - 888322299
+    - 938333222
