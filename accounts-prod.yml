@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Production 🤯"
   contactDetails:
     name: "John Smith"
-    email: "johnsmith@example.com"
+    email: "{cipher}5e37944a74f270cbb9da1175ef0fe0c49e2a119bdfd32020ce174bfdf5221cbaa671e395316d4c6ee7c3775d83852a8a"
   onCallSupport:
     - 1111111133
     - 2311331113
