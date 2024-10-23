@@ -1,8 +1,8 @@
-user:
-  name: qa
-  loan: test
-  amount: 200
-  address: 
-    city: Thane
-    state: MH
-  mobile:
+accounts:
+  message: "Welcome Brijesh Rai to Loans 💳"
+  contactDetails:
+    name: "Brijesh Rai"
+    email: "brijesh@qa.com"
+  onCallSupport:
+    - 1111111133
+    - 2311331113
