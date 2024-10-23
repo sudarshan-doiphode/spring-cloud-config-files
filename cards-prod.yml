@@ -1,0 +1,10 @@
+cards:
+  message: Visa Card 😊
+  contactInfo:
+    name: PRODUCTION
+    email: production@gmail.com
+  onCallSupport:
+    - 3333333222
+    - 4456678855
+    - 2122111111
+    - 1223443244
