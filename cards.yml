@@ -1,0 +1,7 @@
+cards:
+  message: Your card has been activated 😄 😊
+  contactInfo:
+    name: LOCAL
+    email: local@gmail.com
+  onCallSupport:
+    - 3333333222
