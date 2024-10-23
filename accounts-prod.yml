@@ -3,7 +3,7 @@ application:
   password: PRODPASSWORD
 
 accounts:
-  message: "Welcome to PROD APP 🤯"
+  message: "Welcome to PRODUCTION APPLICAYION John Smith 🤯"
   contactDetails:
     name: "John Smith"
     email: "{cipher}5e37944a74f270cbb9da1175ef0fe0c49e2a119bdfd32020ce174bfdf5221cbaa671e395316d4c6ee7c3775d83852a8a"
