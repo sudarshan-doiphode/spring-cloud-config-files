@@ -1,10 +1,8 @@
-user:
-  name: sudarshan
-  loan: liquiloan
-  amount: 200
-  address: 
-    city: Ratnagiri
-    state: MH
-  mobile:
-    - 33333111
-    - 33333999
+loans:
+  message: "Welcome Vishal to Loans 💳"
+  contactDetails:
+    name: "Vishal XYZ"
+    email: "vishal@gmail.com"
+  onCallSupport:
+    - 1111111133
+    - 2311331113
